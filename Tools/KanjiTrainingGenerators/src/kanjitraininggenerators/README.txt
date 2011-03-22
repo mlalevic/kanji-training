@@ -1,0 +1,1 @@
+This project is here simply to serialize (encode) configuration files into suitable format for Mobile phone processing.
